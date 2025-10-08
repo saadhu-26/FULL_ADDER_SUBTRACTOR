@@ -67,10 +67,8 @@ endmodule
 **RTL Schematic**
 <img width="965" height="518" alt="image" src="https://github.com/user-attachments/assets/76d9752d-b04a-40c7-b514-9830cf8357f4" />
 <img width="920" height="449" alt="image" src="https://github.com/user-attachments/assets/56d46bcf-9347-4eff-bfc3-d99ce808c598" />
-
 **Output Timing Waveform**
 <img width="771" height="518" alt="image" src="https://github.com/user-attachments/assets/399677a3-b58a-4ef3-8685-6da8745328b6" />
 <img width="952" height="467" alt="image" src="https://github.com/user-attachments/assets/90a05627-016b-40c1-9aee-c6e0f486ac3c" />
-
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
